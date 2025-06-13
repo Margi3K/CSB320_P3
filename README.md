@@ -22,6 +22,7 @@ conda activate my_env
 - Use JupyterLab or Jupyter Notebook.
 - Open and run the following notebooks:
     - credit_card_analysis.ipynb
+    - shopping_mall_analysis.ipynb
 
 ## Linting and Code Formatting
 
